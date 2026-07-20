@@ -87,18 +87,6 @@ To become a Software Engineer who builds scalable software and AI-powered applic
 
 🎓 **B.Tech** – Computer Science
 
----
-
-# 🌱 Currently Learning
-
-- Java Full Stack Development
-- Spring Boot
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
-
----
 
 # 💻 Coding Profiles
 
