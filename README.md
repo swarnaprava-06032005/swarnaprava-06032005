@@ -16,6 +16,38 @@ M.Tech Computer Science (Artificial Intelligence & Machine Learning)
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile!" />
 </p>
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=swarnaprava-06032005&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/swarnaprava-06032005?label=Followers&style=for-the-badge&color=blue" />
+
+<img src="https://img.shields.io/github/stars/swarnaprava-06032005?affiliations=OWNER&style=for-the-badge&color=yellow" />
+
+<img src="https://img.shields.io/github/repo-size/swarnaprava-06032005/swarnaprava-06032005?style=for-the-badge&color=green" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk"/>
+
+<img src="https://img.shields.io/badge/MERN-Stack-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge"/>
+
+</p>
+
+## 📌 GitHub Information
+
+- 👀 Profile Views
+- 👥 Followers
+- ⭐ Total Stars
+- 📂 Public Repositories
+- 💻 Open Source Projects
+
 ---
 
 # 👨‍💻 About Me
