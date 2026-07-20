@@ -60,8 +60,8 @@ To become a Software Engineer building scalable web and AI-powered applications.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=swarnaprava-06032005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnaprava-06032005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://githubreadmestats.vercel.app/apiusername=swarnaprava06032005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img width="49%" src="https://githubreadmestats.vercel.app/api/toplangs/username=swarnaprava06032005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
