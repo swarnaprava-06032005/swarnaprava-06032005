@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00F7FF&lines=Hi+👋,+I'm+Swarna+Prava+Pati;Java+Full+Stack+Developer;MERN+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
-<h1 align="center">
+<!-- <h1 align="center">
 Hi 👋 I'm Swarna Prava Pati
-</h1>
+</h1> -->
 
 <p align="center">
 
