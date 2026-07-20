@@ -2,33 +2,7 @@
   <img src="./assets/banner.png" width="100%" alt="Swarna Prava Pati Banner">
 </p>
 
-<h1 align="center">Hi 👋 I'm Swarna Prava Pati</h1>
-
-<h3 align="center">
-M.Tech Computer Science (Artificial Intelligence & Machine Learning)
-</h3>
-
-<p align="center">
-Java Full Stack Developer • MERN Stack Developer • AI & ML Enthusiast
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00E5FF&lines=Java+Full+Stack+Developer;MERN+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=swarnaprava-06032005&label=Profile%20Views&style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/followers/swarnaprava-06032005?style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/stars/swarnaprava-06032005?style=for-the-badge&color=yellow"/>
-
-<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
-
-</p>
-
-<!-- <h1 align="center">Hi 👋, I'm Swarna Prava Pati</h1>
+<h1 align="center">Hi 👋, I'm Swarna Prava Pati</h1>
 
 <h3 align="center">
 M.Tech Computer Science (Artificial Intelligence & Machine Learning)
@@ -50,9 +24,9 @@ M.Tech Computer Science (Artificial Intelligence & Machine Learning)
 
 <img src="https://img.shields.io/github/stars/swarnaprava-06032005?affiliations=OWNER&style=for-the-badge&color=yellow" />
 
-<!-- <img src="https://img.shields.io/github/repo-size/swarnaprava-06032005/swarnaprava-06032005?style=for-the-badge&color=green" /> 
+<!-- <img src="https://img.shields.io/github/repo-size/swarnaprava-06032005/swarnaprava-06032005?style=for-the-badge&color=green" />  -->
 
-</p> -->
+</p> 
 
 <!-- <p align="center">
 
