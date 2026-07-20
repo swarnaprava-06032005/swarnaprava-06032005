@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner">
-</p>
+This folder stores images used in my GitHub profile.
