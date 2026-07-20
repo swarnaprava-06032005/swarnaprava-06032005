@@ -1,106 +1,155 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner">
+  <img src="./assets/banner.png" width="100%" alt="Swarna Prava Pati Banner">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00F7FF&lines=Hi+👋,+I'm+Swarna+Prava+Pati;Java+Full+Stack+Developer;MERN+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies" />
-</p>
-
-<!-- <h1 align="center">
-Hi 👋 I'm Swarna Prava Pati
-</h1> -->
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=swarnaprava-06032005&style=for-the-badge&color=blue)
-
-![](https://img.shields.io/github/followers/swarnaprava-06032005?style=for-the-badge)
-
-![](https://img.shields.io/github/stars/swarnaprava-06032005?style=for-the-badge)
-
-</p>
+<h1 align="center">Hi 👋, I'm Swarna Prava Pati</h1>
 
 <h3 align="center">
-M.Tech Computer Science (AI & Machine Learning)
+M.Tech Computer Science (Artificial Intelligence & Machine Learning)
 </h3>
 
 <p align="center">
-Java Full Stack Developer • MERN Stack Developer • AI & ML Enthusiast
+💻 Java Full Stack Developer • ⚛️ MERN Stack Developer • 🤖 AI & ML Enthusiast
 </p>
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile!" />
+</p>
 
-🎓 M.Tech Computer Science (Artificial Intelligence & Machine Learning)
+---
 
-💻 Java Full Stack Developer
+# 👨‍💻 About Me
 
-⚛️ MERN Stack Developer
+🎓 Pursuing **M.Tech in Computer Science (Artificial Intelligence & Machine Learning)**
 
-🤖 AI & Machine Learning Enthusiast
+💻 Passionate about developing scalable web applications using **Java** and the **MERN Stack**.
 
-🌱 Currently Learning
+🤖 Exploring the exciting world of **Artificial Intelligence**, **Machine Learning**, and modern software engineering.
+
+🌱 **Currently Learning**
 
 - Spring Boot
+- Artificial Intelligence
+- Machine Learning
 - Deep Learning
 - Data Structures & Algorithms
 - System Design
 
-🎯 Goal
+🎯 **Career Goal**
 
-To become a Software Engineer building scalable web and AI-powered applications.
+To become a Software Engineer who builds scalable software and AI-powered applications that solve real-world problems.
 
-<h2 align="center">🛠 Tech Stack</h2>
+---
 
-<p align="center">
+# 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode,postman"/>
-
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
- <p align="center">
-  <img width="49%" src="https://githubreadmestats.vercel.app/apiusername=swarnaprava06032005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img width="49%" src="https://githubreadmestats.vercel.app/api/toplangs/username=swarnaprava06032005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+### Languages
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=swarnaprava-06032005&theme=tokyonight"/>
-
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql" />
 </p>
+
+### Frontend
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swarnaprava-06032005&theme=tokyo-night"/>
-
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
 </p>
+
+### Backend
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=swarnaprava-06032005&theme=tokyonight&no-frame=true"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb" />
 </p>
 
-## 🚀 Featured Projects
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🚗 RenoCar | Car Rental Website | HTML, CSS, JavaScript |
-| 🍔 Food Express | MERN Food Ordering App | MERN Stack |
-| ☕ Chai Adda | Cafe Website | HTML, CSS, JS |
-| 🎓 Student Gate Pass | Gate Pass Management | React, Node.js |
-<!--
-**swarnaprava-06032005/swarnaprava-06032005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|----------|-------------|------------|
+| 🚗 RenoCar | Responsive Car Rental Website | HTML, CSS, JavaScript |
+| 🍔 Food Express | Full Stack Food Ordering Application | React, Node.js, Express, MongoDB |
+| ☕ Chai Adda | Modern Café Website | HTML, CSS, JavaScript |
+| 🎓 Student Gate Pass | Digital Gate Pass Management System | React, Node.js, MongoDB |
+| 🧮 Simple Calculator | Responsive Calculator | HTML, CSS, JavaScript |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📚 Education
+
+🎓 **M.Tech** – Computer Science (Artificial Intelligence & Machine Learning)
+
+🎓 **B.Tech** – Computer Science
+
+---
+
+# 🌱 Currently Learning
+
+- Java Full Stack Development
+- Spring Boot
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Structures & Algorithms
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/swarnaprava-06032005">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/swarnaprava-06032005">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/swarnaprava-06032005">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/swarnaprava-06032005">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/swarna-prava-pati-23562b347">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:swarnapravapati621@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Code. Learn. Build. Innovate."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**If you like my projects, consider giving them a ⭐.**
+
+</div>
