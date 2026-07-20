@@ -28,7 +28,7 @@ M.Tech Computer Science (Artificial Intelligence & Machine Learning)
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk"/>
 
@@ -36,9 +36,9 @@ M.Tech Computer Science (Artificial Intelligence & Machine Learning)
 
 <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-purple?style=for-the-badge"/>
 
-<!-- <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge"/> -->
+<img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge"/>
 
-</p>
+</p> -->
 
 # 👨‍💻 About Me
 
