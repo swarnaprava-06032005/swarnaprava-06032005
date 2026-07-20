@@ -36,19 +36,9 @@ M.Tech Computer Science (Artificial Intelligence & Machine Learning)
 
 <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-purple?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge"/>
+<!-- <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge"/> -->
 
 </p>
-
-## 📌 GitHub Information
-
-- 👀 Profile Views
-- 👥 Followers
-- ⭐ Total Stars
-- 📂 Public Repositories
-- 💻 Open Source Projects
-
----
 
 # 👨‍💻 About Me
 
