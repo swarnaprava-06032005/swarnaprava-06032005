@@ -24,7 +24,7 @@ M.Tech Computer Science (Artificial Intelligence & Machine Learning)
 
 <img src="https://img.shields.io/github/stars/swarnaprava-06032005?affiliations=OWNER&style=for-the-badge&color=yellow" />
 
-<img src="https://img.shields.io/github/repo-size/swarnaprava-06032005/swarnaprava-06032005?style=for-the-badge&color=green" />
+<!-- <img src="https://img.shields.io/github/repo-size/swarnaprava-06032005/swarnaprava-06032005?style=for-the-badge&color=green" /> -->
 
 </p>
 
