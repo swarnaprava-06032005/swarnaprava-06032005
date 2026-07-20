@@ -96,13 +96,13 @@ To become a Software Engineer who builds scalable software and AI-powered applic
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/swarnaprava-06032005">
+<!-- <a href="https://www.codechef.com/users/swarnaprava-06032005">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/swarnaprava-06032005">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+</a> -->
 
 </p>
 
