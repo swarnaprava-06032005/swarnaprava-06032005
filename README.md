@@ -138,7 +138,7 @@ To become a Software Engineer who builds scalable software and AI-powered applic
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/swarna-prava-pati-23562b347">
+<a href="https:www.linkedin.com/in/swarna-prava-pati-23562b347">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
